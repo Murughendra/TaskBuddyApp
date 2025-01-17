@@ -44,9 +44,3 @@ Local Storage: To store tasks persistently in the browser.
 
 CSS: For styling the application.
 
-🚀 How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/your-username/taskbuddy-app.git
-
